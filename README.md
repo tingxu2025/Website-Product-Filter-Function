@@ -5,7 +5,7 @@ Filter function script used for a product search page built on Wix.
 ## Overview
 
 This JavaScript file enables dynamic filtering of products (e.g., tires) on a Wix website using repeater elements and connected dropdowns.  
-It connects to a Wix Data Collection named **TireImage** and allows filtering based on:
+It connects to a Wix Data Collection and allows filtering based on:
 - Tire Brand
 - Tire Type
 - Tire Rim
